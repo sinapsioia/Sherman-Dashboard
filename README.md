@@ -81,7 +81,7 @@ cp .env.example .env
 
 Editar `.env` y agregar:
 ```env
-VITE_GOOGLE_API_KEY=tu_google_api_key
+VITE_GOOGLE_API_KEY=
 VITE_SPREADSHEET_ID=1I5HSsNyutjuaLGR1ruyh5B_rKCuOU77GdduAWpzJFf8
 VITE_SHEET_NAME=Finance
 ```

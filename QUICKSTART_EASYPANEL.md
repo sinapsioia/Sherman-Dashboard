@@ -43,7 +43,7 @@ https://easypanel.io/
 **IMPORTANTE**: Configura estas 4 variables:
 
 ```env
-VITE_GOOGLE_API_KEY=AIzaSy...tu_api_key_completa
+VITE_GOOGLE_API_KEY=<VITE_GOOGLE_API_KEY>
 VITE_SPREADSHEET_ID=1I5HSsNyutjuaLGR1ruyh5B_rKCuOU77GdduAWpzJFf8
 VITE_SHEET_NAME=Finance
 VITE_SHEET_RANGE=A:Z

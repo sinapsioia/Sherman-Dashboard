@@ -14,7 +14,7 @@ Esta guía te mostrará cómo desplegar el Dashboard de Sherman en EasyPanel pas
 Antes de desplegar, necesitarás configurar estas variables:
 
 ```env
-VITE_GOOGLE_API_KEY=tu_api_key_de_google
+VITE_GOOGLE_API_KEY=<VITE_GOOGLE_API_KEY>
 VITE_SPREADSHEET_ID=tu_spreadsheet_id
 VITE_SHEET_NAME=Finance
 VITE_SHEET_RANGE=A:Z

@@ -58,7 +58,7 @@ Tu hoja debe tener estas columnas en este orden:
 Abre esta URL en tu navegador (reemplaza con tu API Key):
 
 ```
-https://sheets.googleapis.com/v4/spreadsheets/1I5HSsNyutjuaLGR1ruyh5B_rKCuOU77GdduAWpzJFf8/values/Finance?key=AIzaSyCtg7PAn3u_cXqI5fBuD_3wokY2QNh2F4Y
+https://sheets.googleapis.com/v4/spreadsheets/1I5HSsNyutjuaLGR1ruyh5B_rKCuOU77GdduAWpzJFf8/values/Finance?key=<VITE_GOOGLE_API_KEY>
 ```
 
 **Resultados esperados:**
@@ -126,7 +126,7 @@ Una vez que confirmes que la URL del paso 5 funciona:
 2. Ve a **"Settings"** o **"Environment"**
 3. Verifica que las 4 variables estén correctas:
    ```
-   VITE_GOOGLE_API_KEY=AIzaSyCtg7PAn3u_cXqI5fBuD_3wokY2QNh2F4Y
+   VITE_GOOGLE_API_KEY=<VITE_GOOGLE_API_KEY>
    VITE_SPREADSHEET_ID=1I5HSsNyutjuaLGR1ruyh5B_rKCuOU77GdduAWpzJFf8
    VITE_SHEET_NAME=Finance
    VITE_SHEET_RANGE=A:Z
